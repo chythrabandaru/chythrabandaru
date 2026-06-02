@@ -13,13 +13,27 @@
 <td align="center"><strong>47</strong><br/>Vulnerabilities Found<br/><sub>Across 12+ VAPT engagements</sub></td>
 <td align="center"><strong>60%</strong><br/>Attack Surface Reduction<br/><sub>Delivered post-VAPT</sub></td>
 <td align="center"><strong>200+</strong><br/>Alerts Triaged/Day<br/><sub>30% false positive reduction</sub></td>
-</tr>
-  
+</tr>  
 </table>
+
 🔧 Technical Skills
-DomainTools & TechnologiesVAPT / OffensiveBurp Suite Pro · Metasploit · OWASP ZAP · Nmap · Nikto · SQLmap · Hydra · Gobuster · Netcat · Kali LinuxSOC & SIEMSplunk · Elastic SIEM · IBM QRadar · Microsoft Sentinel · Wazuh · AlienVault OSSIM · Log AnalysisGRC & ComplianceISO 27001 · NIST CSF · NIST 800-53 · CIS Controls · OWASP Top 10 · PTES · DPDP ActVulnerability ManagementNessus · OpenVAS · Qualys · CVSS Scoring · Patch Management · Remediation TrackingThreat IntelligenceMITRE ATT&CK · STIX/TAXII · Cyber Kill Chain · Diamond Model · VirusTotal · Shodan · Maltego · MISPCloud SecurityAWS Security Hub · Azure Defender · GCP Security Command Center · Prisma CloudScripting & DevPython · Bash · PowerShell · Java · C/C++ · SQL · Custom Detection Rule DevelopmentForensics & IRIncident Response · Digital Forensics · Malware Analysis · Runbook & Playbook Development
+
+DomainTools & Technologies
+VAPT / Offensive: 
+Burp Suite Pro · Metasploit · OWASP ZAP · Nmap · Nikto · SQLmap · Hydra · Gobuster · Netcat · Kali Linux
+
+SOC & SIEM: Splunk · Elastic SIEM · IBM QRadar · Microsoft Sentinel · Wazuh · AlienVault OSSIM · Log AnalysisGRC & ComplianceISO 27001 · NIST CSF · NIST 800-53 · CIS Controls · OWASP Top 10 · PTES · DPDP Act
+
+Vulnerability Management: Nessus · OpenVAS · Qualys · CVSS Scoring · Patch Management · Remediation TrackingThreat 
+
+Intelligence: MITRE ATT&CK · STIX/TAXII · Cyber Kill Chain · Diamond Model · VirusTotal · Shodan · Maltego · MISPCloud 
+
+Security: AWS Security Hub · Azure Defender · GCP Security Command Center · Prisma CloudScripting & DevPython · Bash · PowerShell · Java · C/C++ · SQL · Custom Detection Rule Development
+
+Forensics & IR: Incident Response · Digital Forensics · Malware Analysis · Runbook & Playbook Development
 
 🚀 Featured Projects
+
 🔴 Automated VAPT Framework for Web Applications
 Python-based automation framework integrating Burp Suite API + OWASP ZAP. Achieved 92% OWASP Top 10 detection rate across 10 targets. Reduced manual reporting effort by 70% — formally adopted by SecureNest Technologies as their standard assessment pipeline.
 Python Burp Suite API OWASP ZAP Metasploit Docker CVSS
@@ -55,9 +69,13 @@ CertificationIssuerYearCybersecurity FundamentalsPalo Alto Networks2024Ethical H
 </p>
 
 TryHackMe — Top 5% Global · 150+ rooms · Paths: SOC Level 1, Jr Penetration Tester, Cyber Defense
+
 HackTheBox — 20+ machines pwned · Focus: Active Directory exploitation, Web app attacks, Linux privesc
+
 PortSwigger Web Academy — All OWASP Top 10 labs completed using Burp Suite Pro
+
 CyberDefenders — DFIR, malware analysis, log analysis, network forensics
+
 PicoCTF — Web exploitation, cryptography, binary exploitation, forensics
 
 
