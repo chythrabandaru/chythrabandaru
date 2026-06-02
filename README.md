@@ -1,1 +1,23 @@
-profile-README.md
+Chythra Bandaru
+Cybersecurity Professional · Penetration Tester · SOC Analyst · GRC & Vulnerability Management
+📧 bchythra@icloud.com  |  🔗 LinkedIn  |  📍 Bangalore, India  |  Open to Remote / Worldwide 
+--- ## 🏆 Key Stats 
+3
+CVEs Disclosed
+Acknowledged by vendors	Top 5%
+TryHackMe Global
+150+ rooms completed	47
+Vulnerabilities Found
+Across 12+ VAPT engagements	60%
+Attack Surface Reduction
+Delivered post-VAPT	200+
+Alerts Triaged/Day
+30% false positive reduction
+--- ## 🔧 Technical Skills | Domain | Tools & Technologies | |--------|----------------------| | **VAPT / Offensive** | Burp Suite Pro · Metasploit · OWASP ZAP · Nmap · Nikto · SQLmap · Hydra · Gobuster · Netcat · Kali Linux | | **SOC & SIEM** | Splunk · Elastic SIEM · IBM QRadar · Microsoft Sentinel · Wazuh · AlienVault OSSIM · Log Analysis | | **GRC & Compliance** | ISO 27001 · NIST CSF · NIST 800-53 · CIS Controls · OWASP Top 10 · PTES · DPDP Act | | **Vulnerability Management** | Nessus · OpenVAS · Qualys · CVSS Scoring · Patch Management · Remediation Tracking | | **Threat Intelligence** | MITRE ATT&CK · STIX/TAXII · Cyber Kill Chain · Diamond Model · VirusTotal · Shodan · Maltego · MISP | | **Cloud Security** | AWS Security Hub · Azure Defender · GCP Security Command Center · Prisma Cloud | | **Scripting & Dev** | Python · Bash · PowerShell · Java · C/C++ · SQL · Custom Detection Rule Development | | **Forensics & IR** | Incident Response · Digital Forensics · Malware Analysis · Runbook & Playbook Development | --- ## 🚀 Featured Projects ### 🔴 [Automated VAPT Framework for Web Applications](https://github.com/chythrabandaru/automated-vapt-framework) Python-based automation framework integrating Burp Suite API + OWASP ZAP. Achieved **92% OWASP Top 10 detection rate** across 10 targets. Reduced manual reporting effort by **70%** — formally adopted by SecureNest Technologies as their standard assessment pipeline. `Python` `Burp Suite API` `OWASP ZAP` `Metasploit` `Docker` `CVSS` ### 🔵 [Enterprise SOC Simulation & Threat Detection Lab](https://github.com/chythrabandaru/soc-simulation-lab) Production-grade home lab SOC using Splunk + Elastic SIEM. 15+ custom detection rules mapped to MITRE ATT&CK TTPs. Mean time to detect (MTTD) under **4 minutes** for all simulated attack categories. `Splunk` `Elastic SIEM` `MITRE ATT&CK` `Kali Linux` `Python` ### 🟡 [GRC Compliance Automation Tool](https://github.com/chythrabandaru/grc-compliance-tool) Auto-maps organisational controls to ISO 27001 + NIST CSF. Reduced gap analysis time from **40 hours → 6 hours (85% reduction)**. Validated against 2 mock audit scenarios. `Python` `ISO 27001` `NIST CSF` `Pandas` `Excel` ### 🟠 [GNN-based Intrusion Detection System](https://github.com/chythrabandaru/gnn-ids) Graph Neural Network IDS achieving **95% detection accuracy** on NSL-KDD. Outperformed SVM, Random Forest, and LSTM baselines by **12% F1 score**. Highest-performing model in a cohort of 120 students — presented at Alliance University Security Symposium 2025. `Python` `TensorFlow` `GNN` `Scikit-learn` `NSL-KDD` ### 🟣 [Decentralised MFA on Web 3.0](https://github.com/chythrabandaru/web3-decentralised-mfa) Ethereum smart contracts + zero-knowledge proofs eliminating centralised single-point-of-failure risk. Validated across **500+ simulated user sessions**. Awarded **Distinction Grade** in B.Tech final evaluation. `Solidity` `Ethereum` `React` `Zero-Knowledge Proofs` `Web3.js` ### ⚠️ [CVE Disclosures](https://github.com/chythrabandaru/cve-disclosures) Responsible disclosure of **3 critical CVEs** in open-source projects, all acknowledged by vendors. Full technical writeups, PoC code, and vendor communication timelines included. --- ## 📜 Certifications | Certification | Issuer | Year | |--------------|--------|------| | Cybersecurity Fundamentals | Palo Alto Networks | 2024 | | Ethical Hacking Essentials (EHE) | EC-Council | 2024 | | Google Cybersecurity Professional Certificate | Google / Coursera | 2024 | | Jr Penetration Tester Path | TryHackMe | 2024 | | CPTS — Certified Penetration Testing Specialist | HackTheBox | 🔄 In Progress | | CompTIA Security+ | CompTIA | 🔄 In Progress | --- ## 🎯 Platform Profiles 
+       
+- **TryHackMe** — Top 5% Global · 150+ rooms · Paths: SOC Level 1, Jr Penetration Tester, Cyber Defense - **HackTheBox** — 20+ machines pwned · Focus: Active Directory exploitation, Web app attacks, Linux privesc - **PortSwigger Web Academy** — All OWASP Top 10 labs completed using Burp Suite Pro - **CyberDefenders** — DFIR, malware analysis, log analysis, network forensics - **PicoCTF** — Web exploitation, cryptography, binary exploitation, forensics --- ## 📊 GitHub Activity 
+    
+--- 
+Open to full-time roles in Penetration Testing, SOC Analysis, GRC, and Vulnerability Management — Remote or Worldwide
+📧 Reach out · 🔗 LinkedIn 
+
